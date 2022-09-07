@@ -85,12 +85,14 @@ p {
         transform: rotate(0deg);
         height: 250px;
         width: 150px;
+        margin: 20px;
     }
 
     .cocomelon2 {
         transform: rotate(0deg);
         height: 250px;
         width: 150px;
+        margin: 20px;
     }
 
     .stella-image{
